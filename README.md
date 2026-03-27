@@ -1,1 +1,1 @@
-# miniapp-privat
+# miniapp-private
